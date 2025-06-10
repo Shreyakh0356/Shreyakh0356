@@ -16,6 +16,8 @@ Currently,I'm exploring the world of web development, learning the fundamentals 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyakh0356&show_icons=true&theme=radical)
+
 <!--
 **Shreyakh0356/Shreyakh0356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
