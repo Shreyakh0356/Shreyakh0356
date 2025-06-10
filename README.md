@@ -18,6 +18,12 @@ Currently,I'm exploring the world of web development, learning the fundamentals 
 
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyakh0356&show_icons=true&theme=radical)
 
+📫 How to reach me:  
+[LinkedIn](www.linkedin.com/in/
+shreya-khapekar-83948630a
+)  
+Email: shreyakh0356@gmail.com
+
 <!--
 **Shreyakh0356/Shreyakh0356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
