@@ -24,6 +24,12 @@ shreya-khapekar-83948630a
 )  
 Email: shreyakh0356@gmail.com
 
+## 📚 Currently Learning
+
+- Practicing Data Structures & Algorithms (DSA) to improve problem-solving skills.
+- Solving problems on [LeetCode](https://leetcode.com/), [GeeksforGeeks](https://www.geeksforgeeks.org/).
+.
+- Focusing on topics like Arrays, Strings, Recursion, Linked Lists.
 <!--
 **Shreyakh0356/Shreyakh0356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
