@@ -1,6 +1,8 @@
 ## 👋 Hi ,I'm Shreya!
 I'm a 3rd-year Engineering student at Priyadarshani bhagwati College of Engineering.
+
 Currently,I'm exploring the world of web development, learning the fundamentals of HTML, CSS, and beyond.
+
 🚀Excited to share my journey and projects
 
 🛠️ Languages & Tools:
